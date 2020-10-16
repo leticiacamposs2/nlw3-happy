@@ -1,4 +1,4 @@
-# nlw3-happy
+# NLW #3 - Happy
 Repositório com o projeto desenvolvido durante a Next Level Week #3 da @rocketseat
 
 ----
