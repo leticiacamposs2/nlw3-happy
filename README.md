@@ -3,7 +3,7 @@ Repositório com o projeto desenvolvido durante a Next Level Week #3 da @rockets
 
 ----
 
-## 1° Dia: Conceitos e estrutura web 
+### 1° Dia: Conceitos e estrutura web 
 
 - [X] Apresentação do projeto
 - [X] Ambiente de desenvolvimento
@@ -15,3 +15,20 @@ Repositório com o projeto desenvolvido durante a Next Level Week #3 da @rockets
 - [X] Criando a landing page
 - [X] Trabalhando com rotas
 - [X] Páginas com mapa
+
+
+### 2° Dia: Back-end com Node.js
+
+- [X] Criando projeto com Node.js
+- [X] Rotas, parâmetros e métodos HTTP
+- [X] Configurando banco de dados
+- [X] Criando tabelas no banco
+- [X] Criando orfanato sem imagem
+- [X] Abstraindo em controller
+- [X] Listando orfanatos
+- [X] Upload de imagens
+- [X] Trabalhando com views
+- [X] Detalhe do orfanato
+- [X] Lidando com exceções
+- [X] Validação de dados
+
