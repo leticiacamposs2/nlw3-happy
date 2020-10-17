@@ -26,6 +26,7 @@ Repositório com o projeto desenvolvido durante a Next Level Week #3 da @rockets
 - [X] Criando orfanato sem imagem
 - [X] Abstraindo em controller
 - [X] Listando orfanatos
+- [X] Detalhe do orfanato
 - [X] Upload de imagens
 - [X] Trabalhando com views
 - [X] Detalhe do orfanato
