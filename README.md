@@ -29,7 +29,17 @@ Repositório com o projeto desenvolvido durante a Next Level Week #3 da @rockets
 - [X] Detalhe do orfanato
 - [X] Upload de imagens
 - [X] Trabalhando com views
-- [X] Detalhe do orfanato
 - [X] Lidando com exceções
 - [X] Validação de dados
+
+### 3° Dia: Finalizando front-end
+
+- [X] Finalizando página de mapa
+- [X] Copiando páginas faltantes
+- [X] Criando navegação entre telas
+- [X] Abstraindo componentes
+- [X] Conectando front-end com back-end
+- [X] Listando orfanatos no mapa
+- [X] Detalhe do orfanato
+- [X] Criação de um orfanato
 
